@@ -4,6 +4,8 @@ export default {
       // implement node event listeners here
     },
   },
+  video: false,
+  screenshotFolder: false
 };
 
 export {};

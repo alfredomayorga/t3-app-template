@@ -2,6 +2,11 @@
   "name": "t3-app-template",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "yarn": "^1.22.19",
+    "node": ">=14.0.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
